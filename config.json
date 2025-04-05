@@ -1,7 +1,7 @@
 {
     "game": true,
     "daily": true,
-    "task": true,
+    "task": false,
     "farming": true,
     "low_point": 260,
     "high_point": 280,
